@@ -1,2 +1,2 @@
 # yzqAgentStudy
-for study
+for study yyq
